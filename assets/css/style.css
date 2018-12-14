@@ -1,0 +1,49 @@
+.inline {
+    float: left;
+}
+
+img {
+    margin: 0 20px;
+    margin-bottom: 10px;
+
+}
+p {
+    margin-bottom: 0;
+    margin-left: 20px;
+    margin-top: 5px;
+}
+
+.hero {
+    margin: 10px;
+    margin-bottom: 20px;
+}
+
+.hero,
+#find-topic {
+    background: white;
+    color: black;
+    border-radius: 6px;
+    border: 2px solid black;
+}
+.hero:hover,
+#find-topic:hover {
+    background: black;
+    color: white;
+    border-radius: 6px;
+    border: 2px solid white;
+}
+
+body  {
+    font-family: 'Shadows Into Light', cursive;
+    font-family: 'Righteous', cursive;
+}
+
+.container {
+    border: 2px solid black;
+    margin-top: 50px;
+    border-radius: 6px;
+    
+}
+
+
+
